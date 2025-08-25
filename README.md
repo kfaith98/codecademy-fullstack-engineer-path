@@ -15,3 +15,5 @@ Will be adding more as I go along.
 - HTML
 - CSS
 - JavaScript
+
+Thank you!
