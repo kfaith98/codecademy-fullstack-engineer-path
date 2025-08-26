@@ -1,0 +1,33 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+h2 {
+    color: maroon;
+}
+
+table {
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+th {
+    background-color: darkorange;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
